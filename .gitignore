@@ -1,0 +1,4 @@
+target/
+erl_crash.dump
+*.beam
+erlc_out/
